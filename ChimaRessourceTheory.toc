@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: ChimaRessourceTheory
+## Version: 0.0
+## Notes: Simple Ressource Info Addon
+## Author: Chimaya
+
+ChimaRessourceTheory.lua
+ChimaRessourceTheory.xml
